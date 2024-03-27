@@ -128,9 +128,10 @@ nav li img {
   }
 
 nav{
-  height: 10vh;
+  height: 8vh;
   box-shadow: 0 40px 91px rgba(0, 0, 0, 0.1);
 }
+
   #hero-section {
     margin-top: 3rem;
   }

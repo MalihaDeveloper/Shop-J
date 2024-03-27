@@ -16,6 +16,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   margin-right: 1rem;
+  height: 10vh;
 }
 nav li {
   list-style: none;
@@ -127,10 +128,10 @@ nav li img {
     font-size: 50%; /* 1rem = 8px, 8/16 = 50% */
   }
 
-nav{
-  height: 8vh;
-  box-shadow: 0 40px 91px rgba(0, 0, 0, 0.1);
-}
+  nav {
+    height: 7vh;
+    box-shadow: 0 40px 91px rgba(0, 0, 0, 0.1);
+  }
 
   #hero-section {
     margin-top: 3rem;
